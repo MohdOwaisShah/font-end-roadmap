@@ -6,22 +6,22 @@
 ---
 
 ## 📋 Table of Contents 
-- [Foundation](#foundation)
-- [Core Technologies](#core-technologies)
-- [Advanced CSS](#advanced-css)
-- [JavaScript Deep Dive](#javascript-deep-dive)
-- [Version Control](#version-control)
-- [Package Managers & Build Tools](#package-managers--build-tools)
-- [Frontend Frameworks](#frontend-frameworks)
-- [TypeScript](#typescript)
-- [State Management](#state-management)
-- [Performance Optimization](#performance-optimization)
-- [Web APIs & Browser Features](#web-apis--browser-features)
-- [Testing](#testing)
-- [Web Accessibility](#web-accessibility)
-- [Developer Tools](#developer-tools) 
-- [Deployment & Hosting](#deployment--hosting)
-- [Job Ready Skills](#job-ready-skills)
+1. [Foundation](#foundation)
+2. [Core Technologies](#core-technologies)
+3. [Advanced CSS](#advanced-css)
+4. [JavaScript Deep Dive](#javascript-deep-dive)
+5. [Version Control](#version-control)
+6. [Package Managers & Build Tools](#package-managers--build-tools)
+7. [Frontend Frameworks](#frontend-frameworks)
+8. [TypeScript](#typescript)
+9. [State Management](#state-management)
+10. [Performance Optimization](#performance-optimization)
+11. [Web APIs & Browser Features](#web-apis--browser-features)
+12. [Testing](#testing)
+13. [Web Accessibility](#web-accessibility)
+14. [Developer Tools](#developer-tools) 
+15. [Deployment & Hosting](#deployment--hosting)
+16. [Job Ready Skills](#job-ready-skills)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 💻 Core Technologies
+## Core Technologies
 
 ### HTML5
 #### Basics
@@ -107,7 +107,7 @@
 
 ---
 
-## 🎨 Advanced CSS
+## Advanced CSS
 
 ### CSS Flexbox
 - Flex container properties
@@ -173,7 +173,7 @@
 
 ---
 
-## 🚀 JavaScript Deep Dive
+## JavaScript Deep Dive
 
 ### JavaScript Fundamentals
 - Variables (var, let, const)
@@ -276,7 +276,7 @@
 
 ---
 
-## 🔧 Version Control
+## Version Control
 
 ### Git Basics
 - Git installation and configuration
@@ -315,7 +315,7 @@
 
 ---
 
-## 📦 Package Managers & Build Tools
+## Package Managers & Build Tools
 
 ### NPM (Node Package Manager)
 - NPM installation
@@ -355,7 +355,7 @@
 
 ---
 
-## ⚛️ Frontend Frameworks
+## Frontend Frameworks
 
 ### React.js (Recommended)
 #### React Fundamentals
@@ -413,7 +413,7 @@
 
 ---
 
-## 📘 TypeScript
+## TypeScript
 
 ### TypeScript Basics
 - What is TypeScript
@@ -451,7 +451,7 @@
 
 ---
 
-## 🗂️ State Management
+## State Management
 
 ### Local State Management
 - `useState` hook
@@ -488,7 +488,7 @@
 
 ---
 
-## ⚡ Performance Optimization
+## Performance Optimization
 
 ### Code Optimization
 - Code splitting
@@ -529,7 +529,7 @@
 
 ---
 
-## 🌐 Web APIs & Browser Features
+## Web APIs & Browser Features
 
 ### Storage
 - Local Storage
@@ -562,7 +562,7 @@
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Testing Fundamentals
 - Why testing is important
@@ -589,7 +589,7 @@
 
 ---
 
-## ♿ Web Accessibility
+## Web Accessibility
 
 ### Accessibility Basics
 - What is web accessibility (a11y)
@@ -622,7 +622,7 @@
 
 ---
 
-## 🛠️ Developer Tools
+## Developer Tools
 
 ### Browser DevTools
 - Elements/Inspector panel
@@ -641,7 +641,7 @@
 
 ---
 
-## 🚀 Deployment & Hosting
+## Deployment & Hosting
 
 ### Deployment Platforms
 - **Vercel**
@@ -669,7 +669,7 @@
 
 ---
 
-## 💼 Job Ready Skills
+## Job Ready Skills
 
 ### Portfolio Development
 - Personal portfolio website
@@ -750,7 +750,7 @@
 
 ---
 
-## 📚 Additional Learning Resources
+## Additional Learning Resources
 
 ### Documentation
 - MDN Web Docs (JavaScript, HTML, CSS)
@@ -772,7 +772,7 @@
 
 ---
 
-## 🎯 Learning Tips
+## Learning Tips
 
 1. **Learn by doing** - Build projects while learning
 2. **Master fundamentals** - Don't skip HTML, CSS, JavaScript basics
@@ -787,7 +787,7 @@
 
 ---
 
-## ⏱️ Estimated Timeline
+## Estimated Timeline
 
 - **Foundations (HTML/CSS/JS)**: 2-3 months
 - **Advanced CSS & Responsive Design**: 1 month
@@ -804,7 +804,7 @@
 
 ---
 
-## ✅ Your Action Plan
+## Your Action Plan
 
 ### Month 1-3: Fundamentals
 - ✅ HTML5 complete
@@ -838,7 +838,7 @@
 
 ---
 
-## 🌟 Final Words
+## Final Words
 
 Remember, becoming a job-ready frontend developer is a journey, not a destination. Stay consistent, keep building projects, and never stop learning. The tech industry is constantly evolving, and so should you.
 
