@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Foundation
+## Foundation
 
 ### How the Web Works
 - HTTP/HTTPS protocols
